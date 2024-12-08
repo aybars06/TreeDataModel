@@ -1,0 +1,10 @@
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\bin\Debug\Ağaç Veri Modeli Projesi.exe.config
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\bin\Debug\Ağaç Veri Modeli Projesi.exe
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\bin\Debug\Ağaç Veri Modeli Projesi.pdb
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\obj\Debug\Ağaç Veri Modeli Projesi.csproj.AssemblyReference.cache
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\obj\Debug\Ağaç_Veri_Modeli_Projesi.Form1.resources
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\obj\Debug\Ağaç_Veri_Modeli_Projesi.Properties.Resources.resources
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\obj\Debug\Ağaç Veri Modeli Projesi.csproj.GenerateResource.cache
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\obj\Debug\Ağaç Veri Modeli Projesi.csproj.CoreCompileInputs.cache
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\obj\Debug\Ağaç Veri Modeli Projesi.exe
+C:\Users\ERTAM-PC\Documents\Visual Studio 2019\Ağaç Veri Modeli Projesi\Ağaç Veri Modeli Projesi\obj\Debug\Ağaç Veri Modeli Projesi.pdb
